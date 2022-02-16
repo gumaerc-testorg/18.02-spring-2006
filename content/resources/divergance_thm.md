@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on Divergance Theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-spring-2006/2d5390ed4a97065f21cdff8254ec99cc_divergance_thm.pdf
+file: /media/courses/18-02-multivariable-calculus-spring-2006/2d5390ed4a97065f21cdff8254ec99cc_divergance_thm.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: divergance_thm.pdf
 uid: 2d5390ed-4a97-065f-21cd-ff8254ec99cc

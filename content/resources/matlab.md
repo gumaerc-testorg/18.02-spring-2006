@@ -2,8 +2,12 @@
 content_type: resource
 description: This file expalins the method to work with Matlab, which is required
   for the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-spring-2006/f42ad54ba36e3b054242035b1c63a9e3_matlab.pdf
+file: /media/courses/18-02-multivariable-calculus-spring-2006/f42ad54ba36e3b054242035b1c63a9e3_matlab.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: matlab.pdf
 uid: f42ad54b-a36e-3b05-4242-035b1c63a9e3

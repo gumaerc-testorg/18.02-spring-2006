@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on Double Integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-spring-2006/0e5b7d7549f8d7e7784cea71cf2c54ee_dbl_intgrls_sol.pdf
+file: /media/courses/18-02-multivariable-calculus-spring-2006/0e5b7d7549f8d7e7784cea71cf2c54ee_dbl_intgrls_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: dbl_intgrls_sol.pdf
 uid: 0e5b7d75-49f8-d7e7-784c-ea71cf2c54ee

@@ -3,8 +3,13 @@ content_type: resource
 description: This file provides solutions to problems on flux form of Green's theorem,
   flux form of Green's theorem, divergence (= Gauss's) theorem, line integrals in
   space, exactness, and potentials, Stokes' theorem, and understanding curl.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-spring-2006/b7d4075bf4a9196d86d0235dfdce880b_exam4sol.pdf
+file: /media/courses/18-02-multivariable-calculus-spring-2006/b7d4075bf4a9196d86d0235dfdce880b_exam4sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: exam4sol.pdf
 uid: b7d4075b-f4a9-196d-86d0-235dfdce880b

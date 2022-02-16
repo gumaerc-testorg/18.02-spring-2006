@@ -4,8 +4,12 @@ description: 'This file describes the role played by the divergence theorem in t
   study of heat
 
   flow and motion in liquids and gases.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-spring-2006/1fa75c7a1d2ee9589f16769a57d75bac_lecnotes_diverge.pdf
+file: /media/courses/18-02-multivariable-calculus-spring-2006/1fa75c7a1d2ee9589f16769a57d75bac_lecnotes_diverge.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: lecnotes_diverge.pdf
 uid: 1fa75c7a-1d2e-e958-9f16-769a57d75bac
