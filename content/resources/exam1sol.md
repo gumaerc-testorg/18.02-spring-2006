@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c3ca0d84-59c0-d8e0-0dff-196e231a668b
 resourcetype: Document
 title: exam1sol.pdf
 uid: a665789e-b74b-694a-0734-1f0c15eb9c21

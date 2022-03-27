@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b3a6a4e5-fb07-28ff-2059-c545024d0061
 resourcetype: Document
 title: lecnotes_diverge.pdf
 uid: 1fa75c7a-1d2e-e958-9f16-769a57d75bac

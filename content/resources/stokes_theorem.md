@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: stokes_theorem.pdf
 uid: c7410b54-8727-5b11-c4c8-c9802389322e

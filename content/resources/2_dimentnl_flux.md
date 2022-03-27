@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: 2_dimentnl_flux.pdf
 uid: 53f04b39-bc15-bf7b-da4b-3435f2717e13

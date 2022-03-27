@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: gravitnl_attracn.pdf
 uid: 64b3f710-22fa-83c9-7ce7-b22141ff1b3a

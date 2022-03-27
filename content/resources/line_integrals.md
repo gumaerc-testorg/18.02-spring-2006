@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: line_integrals.pdf
 uid: 9d8048aa-429c-1df4-0f48-318c0f5ffb7b

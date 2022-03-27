@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: plane_vector_fld.pdf
 uid: 6a799fce-7ea0-4930-b64b-216fdad83285

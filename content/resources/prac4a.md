@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c3ca0d84-59c0-d8e0-0dff-196e231a668b
 resourcetype: Document
 title: prac4a.pdf
 uid: cbcae6d8-6515-a730-d973-b9692358b160

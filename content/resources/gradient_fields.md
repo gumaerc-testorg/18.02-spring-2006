@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: gradient_fields.pdf
 uid: ce7a46bf-c4e1-4e8e-6af5-fafe6f0e7404

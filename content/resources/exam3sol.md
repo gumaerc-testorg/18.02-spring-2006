@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c3ca0d84-59c0-d8e0-0dff-196e231a668b
 resourcetype: Document
 title: exam3sol.pdf
 uid: 67aa9cb9-ca9d-8cd3-672b-146663ade22f

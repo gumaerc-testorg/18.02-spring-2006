@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: vec_int_calc_sol.pdf
 uid: 26fa663d-6621-9e8e-2333-cea8a40dac59

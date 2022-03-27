@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c3ca0d84-59c0-d8e0-0dff-196e231a668b
 resourcetype: Document
 title: pracfinalbsol.pdf
 uid: 9fcad0a1-6789-78a1-9f3f-1fa9991eb39a

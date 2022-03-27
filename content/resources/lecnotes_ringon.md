@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b3a6a4e5-fb07-28ff-2059-c545024d0061
 resourcetype: Document
 title: lecnotes_ringon.pdf
 uid: 42a96a2f-4106-d6ea-ca3c-60ef307f0c13

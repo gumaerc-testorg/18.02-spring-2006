@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b3a6a4e5-fb07-28ff-2059-c545024d0061
 resourcetype: Document
 title: lecnotes_prob.pdf
 uid: 37ab9973-a078-7cd9-de24-92347b180034

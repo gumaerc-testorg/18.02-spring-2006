@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: vectr_mtrics_sol.pdf
 uid: 412368de-8751-ce06-b8a7-6afd2f276a05

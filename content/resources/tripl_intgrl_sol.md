@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: tripl_intgrl_sol.pdf
 uid: bbef7e6c-355e-845e-6b69-5ddb7f31152f

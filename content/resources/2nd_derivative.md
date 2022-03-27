@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 resourcetype: Document
 title: 2nd_derivative.pdf
 uid: d2d18db0-7e0d-e06c-0313-a88eaba84f8f
