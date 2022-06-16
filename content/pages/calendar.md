@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the topics taught in the class with
+  the due dates for the assigned homeworks.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

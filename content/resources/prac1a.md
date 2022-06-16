@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes problems on dot and cross product, velocity and the
   speed, inverse matrices, systems of linear equations, lines, and planes.
-file: /media/courses/18-02-multivariable-calculus-spring-2006/803fa2d41b61b725846dcf7320e7447b_prac1a.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/803fa2d41b61b725846dcf7320e7447b_prac1a.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -14,3 +14,5 @@ resourcetype: Document
 title: prac1a.pdf
 uid: 803fa2d4-1b61-b725-846d-cf7320e7447b
 ---
+This file includes problems on dot and cross product, velocity and the speed, inverse matrices, systems of linear equations, lines, and planes.
+
