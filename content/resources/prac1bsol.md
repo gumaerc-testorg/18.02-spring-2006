@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/09390857853734c605f99d28
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prac1bsol.pdf
 uid: 09390857-8537-34c6-05f9-9d285efd7324
 ---
 This file provides solutions to problems on solving systems of linear equations, lines, planes, determinants of orders 2 and 3, dot and cross product.
-

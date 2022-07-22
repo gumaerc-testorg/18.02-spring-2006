@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/bbef7e6c355e845e6b695ddb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tripl_intgrl_sol.pdf
 uid: bbef7e6c-355e-845e-6b69-5ddb7f31152f
 ---
 This resource contains information on triple integrals.
-

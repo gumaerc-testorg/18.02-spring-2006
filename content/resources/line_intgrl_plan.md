@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/9b72d60cf9132cfdb0e45321
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: line_intgrl_plan.pdf
 uid: 9b72d60c-f913-2cfd-b0e4-532167bf765b
 ---
 This resource contains information on Line Integrals in the Plane.
-

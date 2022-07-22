@@ -7,6 +7,7 @@ description: 'This file describes the role played by the divergence theorem in t
 file: /courses/18-02-multivariable-calculus-spring-2006/1fa75c7a1d2ee9589f16769a57d75bac_lecnotes_diverge.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 1fa75c7a-1d2e-e958-9f16-769a57d75bac
 ---
 This file describes the role played by the divergence theorem in the study of heat
 flow and motion in liquids and gases.
-

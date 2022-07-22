@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/1612da4fbe54e7ebc82f3f93
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

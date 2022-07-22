@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/c7410b5487275b11c4c8c980
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stokes_theorem.pdf
 uid: c7410b54-8727-5b11-c4c8-c9802389322e
 ---
 This resource contains information on Stokes' theorem.
-

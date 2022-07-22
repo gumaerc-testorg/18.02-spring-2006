@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/a0458212c9fe9b2f06354cab
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prac2b.pdf
 uid: a0458212-c9fe-9b2f-0635-4cab43f5897c
 ---
 This file includes problems on level curves, partial derivatives, tangent plane, and Lagrange multipliers.
-

@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/cdb05ed7adcb660c2b351045
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vect_intgrl_calc.pdf
 uid: cdb05ed7-adcb-660c-2b35-10453b25fba1
 ---
 This resource contains information on vector integral calculus in space.
-

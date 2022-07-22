@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/ea3eb2df86e5022305423fdb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prac4asol.pdf
 uid: ea3eb2df-86e5-0223-0542-3fdbf3aaef49
 ---
 This file provides solutions to problems on conservative fields and potential functions, Stokes' theorem, and flux form of Green's theorem.
-

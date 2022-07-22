@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/c8ae96d0e42e968ca4e78ae8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: part_diff_sol.pdf
 uid: c8ae96d0-e42e-968c-a4e7-8ae8884beb1f
 ---
 This resource contains solutions to problems on partial differentiation.
-

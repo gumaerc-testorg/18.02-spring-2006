@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/d2d18db07e0de06c0313a88e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2nd_derivative.pdf
 uid: d2d18db0-7e0d-e06c-0313-a88eaba84f8f
 ---
 This resource contains information on second derivative test.
-

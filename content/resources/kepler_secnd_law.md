@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-spring-2006/a4c724f1c276413535f8e6b6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kepler_secnd_law.pdf
 uid: a4c724f1-c276-4135-35f8-e6b608024918
 ---
 This resource contains information on Kepler's second law.
-
