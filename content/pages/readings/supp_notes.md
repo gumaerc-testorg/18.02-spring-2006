@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 67ae370c-f433-8938-d073-ce4bed07e885
 title: 18.02 Supplementary Notes and Problems
 uid: 2b08aca9-6668-01a1-680a-9dea58eabaee
@@ -29,7 +34,7 @@ TOPICS
 D
 {{< tdclose >}}
 {{< tdopen >}}
-Determinants ([PDF]({{< baseurl >}}/resources/determinants))
+Determinants ({{% resource_link ed7be282-d743-3728-c36a-2ac6607ce30e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +43,7 @@ Determinants ([PDF]({{< baseurl >}}/resources/determinants))
 M
 {{< tdclose >}}
 {{< tdopen >}}
-Matrices and Linear Algebra ([PDF]({{< baseurl >}}/resources/matrices_algebra))
+Matrices and Linear Algebra ({{% resource_link 563f7af2-cb4c-4d55-f6be-6a4978b9316a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +52,7 @@ Matrices and Linear Algebra ([PDF]({{< baseurl >}}/resources/matrices_algebra))
 K
 {{< tdclose >}}
 {{< tdopen >}}
-Kepler's Second Law ([PDF]({{< baseurl >}}/resources/kepler_secnd_law))
+Kepler's Second Law ({{% resource_link a4c724f1-c276-4135-35f8-e6b608024918 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +61,7 @@ Kepler's Second Law ([PDF]({{< baseurl >}}/resources/kepler_secnd_law))
 TA
 {{< tdclose >}}
 {{< tdopen >}}
-The Tangent Approximation ([PDF]({{< baseurl >}}/resources/tangent_approx))
+The Tangent Approximation ({{% resource_link 8f7318e8-b82c-26dd-397a-bc02a46f5ee2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +70,7 @@ The Tangent Approximation ([PDF]({{< baseurl >}}/resources/tangent_approx))
 SD
 {{< tdclose >}}
 {{< tdopen >}}
-Second Derivative Test ([PDF]({{< baseurl >}}/resources/2nd_derivative))
+Second Derivative Test ({{% resource_link d2d18db0-7e0d-e06c-0313-a88eaba84f8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +79,7 @@ Second Derivative Test ([PDF]({{< baseurl >}}/resources/2nd_derivative))
 LS
 {{< tdclose >}}
 {{< tdopen >}}
-Least Squares Interpolation ([PDF]({{< baseurl >}}/resources/least_sq_intrpol))
+Least Squares Interpolation ({{% resource_link be4bc381-d168-82e2-9be1-2135ca61113a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +88,7 @@ Least Squares Interpolation ([PDF]({{< baseurl >}}/resources/least_sq_intrpol))
 N
 {{< tdclose >}}
 {{< tdopen >}}
-Non-independent Variables ([PDF]({{< baseurl >}}/resources/non_ind_variable))
+Non-independent Variables ({{% resource_link 1612da4f-be54-e7eb-c82f-3f930e17e0db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +97,7 @@ Non-independent Variables ([PDF]({{< baseurl >}}/resources/non_ind_variable))
 P
 {{< tdclose >}}
 {{< tdopen >}}
-Partial Differential Equations ([PDF]({{< baseurl >}}/resources/part_diff_eqn))
+Partial Differential Equations ({{% resource_link f94ad9ad-221c-eae6-cd1f-8e8c70ea5a46 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +106,7 @@ Partial Differential Equations ([PDF]({{< baseurl >}}/resources/part_diff_eqn))
 I
 {{< tdclose >}}
 {{< tdopen >}}
-Limits in Iterated Integrals ([PDF]({{< baseurl >}}/resources/lim_itratd_intgr))
+Limits in Iterated Integrals ({{% resource_link ae726920-eca0-74ad-0a6b-b95addd97c16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +115,7 @@ Limits in Iterated Integrals ([PDF]({{< baseurl >}}/resources/lim_itratd_intgr))
 CV
 {{< tdclose >}}
 {{< tdopen >}}
-Changing Variables in Multiple Integrals ([PDF]({{< baseurl >}}/resources/multipl_integrls))
+Changing Variables in Multiple Integrals ({{% resource_link 2352d60e-a1c9-b8f7-f97e-17582f6711c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +124,7 @@ Changing Variables in Multiple Integrals ([PDF]({{< baseurl >}}/resources/multip
 G
 {{< tdclose >}}
 {{< tdopen >}}
-Gravitational Attraction ([PDF]({{< baseurl >}}/resources/gravitnl_attracn))
+Gravitational Attraction ({{% resource_link 64b3f710-22fa-83c9-7ce7-b22141ff1b3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +152,7 @@ TOPICS
 V1
 {{< tdclose >}}
 {{< tdopen >}}
-Plane Vector Fields ([PDF]({{< baseurl >}}/resources/plane_vector_fld))
+Plane Vector Fields ({{% resource_link 6a799fce-7ea0-4930-b64b-216fdad83285 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Plane Vector Fields ([PDF]({{< baseurl >}}/resources/plane_vector_fld))
 V2
 {{< tdclose >}}
 {{< tdopen >}}
-Gradient Fields and Exact Differentials ([PDF]({{< baseurl >}}/resources/grad_fld_n_diff))
+Gradient Fields and Exact Differentials ({{% resource_link 54487573-ae46-73cc-2752-afe19ad20965 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +170,7 @@ Gradient Fields and Exact Differentials ([PDF]({{< baseurl >}}/resources/grad_fl
 V3
 {{< tdclose >}}
 {{< tdopen >}}
-Two-dimensional Flux ([PDF]({{< baseurl >}}/resources/2_dimentnl_flux))
+Two-dimensional Flux ({{% resource_link 53f04b39-bc15-bf7b-da4b-3435f2717e13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Two-dimensional Flux ([PDF]({{< baseurl >}}/resources/2_dimentnl_flux))
 V4
 {{< tdclose >}}
 {{< tdopen >}}
-Green's Theorem in Normal Form ([PDF]({{< baseurl >}}/resources/green_theorem))
+Green's Theorem in Normal Form ({{% resource_link 0322201f-438c-28e3-7dd7-0fa64ba380de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +188,7 @@ Green's Theorem in Normal Form ([PDF]({{< baseurl >}}/resources/green_theorem))
 V5
 {{< tdclose >}}
 {{< tdopen >}}
-Simply-connected Regions ([PDF]({{< baseurl >}}/resources/simpl_conctd_reg))
+Simply-connected Regions ({{% resource_link eab1e529-ab7e-a4a5-d5b7-bbe75511a08b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +197,7 @@ Simply-connected Regions ([PDF]({{< baseurl >}}/resources/simpl_conctd_reg))
 V6
 {{< tdclose >}}
 {{< tdopen >}}
-Multiply-connected Regions; Topology ([PDF]({{< baseurl >}}/resources/mult_conectd_reg))
+Multiply-connected Regions; Topology ({{% resource_link 9d1169d8-27c5-2c3c-81eb-41447a2637fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +206,7 @@ Multiply-connected Regions; Topology ([PDF]({{< baseurl >}}/resources/mult_conec
 V7
 {{< tdclose >}}
 {{< tdopen >}}
-Laplace's Equation and Harmonic Functions ([PDF]({{< baseurl >}}/resources/laplace_eqn))
+Laplace's Equation and Harmonic Functions ({{% resource_link 340799c7-bed1-4566-3b19-ee2806baf87a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Laplace's Equation and Harmonic Functions ([PDF]({{< baseurl >}}/resources/lapla
 V8
 {{< tdclose >}}
 {{< tdopen >}}
-Vector Fields in Space ([PDF]({{< baseurl >}}/resources/vector_fields))
+Vector Fields in Space ({{% resource_link a87cc30c-2b0e-1308-81a9-1b511ebeb545 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +224,7 @@ Vector Fields in Space ([PDF]({{< baseurl >}}/resources/vector_fields))
 V9
 {{< tdclose >}}
 {{< tdopen >}}
-Surface Integrals ([PDF]({{< baseurl >}}/resources/surface_integrls))
+Surface Integrals ({{% resource_link 3e06a138-6b4d-3d18-5167-a30569cd79d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +233,7 @@ Surface Integrals ([PDF]({{< baseurl >}}/resources/surface_integrls))
 V10
 {{< tdclose >}}
 {{< tdopen >}}
-The Divergence Theorem ([PDF]({{< baseurl >}}/resources/divergance_thm))
+The Divergence Theorem ({{% resource_link 2d5390ed-4a97-065f-21cd-ff8254ec99cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +242,7 @@ The Divergence Theorem ([PDF]({{< baseurl >}}/resources/divergance_thm))
 V11
 {{< tdclose >}}
 {{< tdopen >}}
-Line Integrals in Space ([PDF]({{< baseurl >}}/resources/line_integrals))
+Line Integrals in Space ({{% resource_link 9d8048aa-429c-1df4-0f48-318c0f5ffb7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +251,7 @@ Line Integrals in Space ([PDF]({{< baseurl >}}/resources/line_integrals))
 V12
 {{< tdclose >}}
 {{< tdopen >}}
-Gradient Fields in Space ([PDF]({{< baseurl >}}/resources/gradient_fields))
+Gradient Fields in Space ({{% resource_link ce7a46bf-c4e1-4e8e-6af5-fafe6f0e7404 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +260,7 @@ Gradient Fields in Space ([PDF]({{< baseurl >}}/resources/gradient_fields))
 V13
 {{< tdclose >}}
 {{< tdopen >}}
-Stokes' Theorem ([PDF]({{< baseurl >}}/resources/stokes_theorem))
+Stokes' Theorem ({{% resource_link c7410b54-8727-5b11-c4c8-c9802389322e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +269,7 @@ Stokes' Theorem ([PDF]({{< baseurl >}}/resources/stokes_theorem))
 V14
 {{< tdclose >}}
 {{< tdopen >}}
-Some Topological Questions ([PDF]({{< baseurl >}}/resources/topological_ques))
+Some Topological Questions ({{% resource_link e186c085-1ad4-0c45-fa97-4062ba3b1935 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +278,7 @@ Some Topological Questions ([PDF]({{< baseurl >}}/resources/topological_ques))
 V15
 {{< tdclose >}}
 {{< tdopen >}}
-Relation to Physics ([PDF]({{< baseurl >}}/resources/relation_to_phy))
+Relation to Physics ({{% resource_link e66b9839-daeb-71cc-df05-470a11303cad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +312,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Vectors and Matrices ([PDF]({{< baseurl >}}/resources/vectors_matrices))
+Vectors and Matrices ({{% resource_link 14829c1f-d971-a4f0-8e5c-d34673e9414e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,7 +321,7 @@ Vectors and Matrices ([PDF]({{< baseurl >}}/resources/vectors_matrices))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Partial Differentiation ([PDF]({{< baseurl >}}/resources/partial_diff))
+Partial Differentiation ({{% resource_link f63bec99-87cc-52c0-0d6e-1c5528226ed2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +330,7 @@ Partial Differentiation ([PDF]({{< baseurl >}}/resources/partial_diff))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Double Integrals ([PDF]({{< baseurl >}}/resources/double_integrals))
+Double Integrals ({{% resource_link adece8fc-7ad8-2656-a813-1b0b793c8c72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +339,7 @@ Double Integrals ([PDF]({{< baseurl >}}/resources/double_integrals))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Line Integrals in the Plane ([PDF]({{< baseurl >}}/resources/line_intgrl_plan))
+Line Integrals in the Plane ({{% resource_link 9b72d60c-f913-2cfd-b0e4-532167bf765b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +348,7 @@ Line Integrals in the Plane ([PDF]({{< baseurl >}}/resources/line_intgrl_plan))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Triple Integrals ([PDF]({{< baseurl >}}/resources/triple_integrals))
+Triple Integrals ({{% resource_link 99288f30-a36d-3e46-76eb-66a0602fdceb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -352,7 +357,7 @@ Triple Integrals ([PDF]({{< baseurl >}}/resources/triple_integrals))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Vector Integral Calculus in Space ([PDF]({{< baseurl >}}/resources/vect_intgrl_calc))
+Vector Integral Calculus in Space ({{% resource_link cdb05ed7-adcb-660c-2b35-10453b25fba1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +372,7 @@ Vector Integral Calculus in Space ([PDF]({{< baseurl >}}/resources/vect_intgrl_c
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Vectors and Matrices ([PDF]({{< baseurl >}}/resources/vectr_mtrics_sol))
+Vectors and Matrices ({{% resource_link 412368de-8751-ce06-b8a7-6afd2f276a05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,7 +381,7 @@ Vectors and Matrices ([PDF]({{< baseurl >}}/resources/vectr_mtrics_sol))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Partial Differentiation ([PDF]({{< baseurl >}}/resources/part_diff_sol))
+Partial Differentiation ({{% resource_link c8ae96d0-e42e-968c-a4e7-8ae8884beb1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -385,7 +390,7 @@ Partial Differentiation ([PDF]({{< baseurl >}}/resources/part_diff_sol))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Double Integrals ([PDF]({{< baseurl >}}/resources/dbl_intgrls_sol))
+Double Integrals ({{% resource_link 0e5b7d75-49f8-d7e7-784c-ea71cf2c54ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -394,7 +399,7 @@ Double Integrals ([PDF]({{< baseurl >}}/resources/dbl_intgrls_sol))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Line Integrals in the Plane ([PDF]({{< baseurl >}}/resources/line_integrl_sol))
+Line Integrals in the Plane ({{% resource_link 2b584bd1-2677-a4c4-7ed3-fc8921aeb673 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -403,7 +408,7 @@ Line Integrals in the Plane ([PDF]({{< baseurl >}}/resources/line_integrl_sol))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Triple Integrals ([PDF]({{< baseurl >}}/resources/tripl_intgrl_sol))
+Triple Integrals ({{% resource_link bbef7e6c-355e-845e-6b69-5ddb7f31152f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,7 +417,7 @@ Triple Integrals ([PDF]({{< baseurl >}}/resources/tripl_intgrl_sol))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Vector Integral Calculus in Space ([PDF]({{< baseurl >}}/resources/vec_int_calc_sol))
+Vector Integral Calculus in Space ({{% resource_link 26fa663d-6621-9e8e-2333-cea8a40dac59 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
