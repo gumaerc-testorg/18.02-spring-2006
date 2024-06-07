@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes problems on double and iterated integrals, double
   integrals in polar coordinates.
 file: /courses/18-02-multivariable-calculus-spring-2006/5ee5eefa39f19119762c02d0be8ac66d_prac3a.pdf
+file_size: 47340
 file_type: application/pdf
 learning_resource_types:
 - Exams

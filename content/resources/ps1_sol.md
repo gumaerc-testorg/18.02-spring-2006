@@ -4,6 +4,7 @@ description: This file includes solutions for the problems on topics vectors and
   product, determinants, cross product, matrices and inverse matrices, and solving
   systems of linear equations; lines, planes.
 file: /courses/18-02-multivariable-calculus-spring-2006/47fb1cdc5d0bbce3dca736fe53d30ebf_ps1_sol.pdf
+file_size: 131795
 file_type: application/pdf
 learning_resource_types:
 - Assignments

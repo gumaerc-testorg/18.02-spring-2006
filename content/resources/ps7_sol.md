@@ -4,6 +4,7 @@ description: This file provides solution to problems on change of variables, pro
   triple integrals in rectangular and cylindrical coordinates, spherical coordinates,
   and gravitational attraction.
 file: /courses/18-02-multivariable-calculus-spring-2006/e74ac7a01ed070167dc71c16788b3cb5_ps7_sol.pdf
+file_size: 157315
 file_type: application/pdf
 learning_resource_types:
 - Assignments

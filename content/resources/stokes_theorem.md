@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on Stokes' theorem.
 file: /courses/18-02-multivariable-calculus-spring-2006/c7410b5487275b11c4c8c9802389322e_stokes_theorem.pdf
+file_size: 123020
 file_type: application/pdf
 learning_resource_types:
 - Readings

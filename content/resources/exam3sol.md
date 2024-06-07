@@ -7,6 +7,7 @@ description: This file provides solutions to problems on double and iterated int
   conservative fields and potential functions, Green's theorem, 2-dimensional curl
   (vorticity), and simply-connected regions.
 file: /courses/18-02-multivariable-calculus-spring-2006/67aa9cb9ca9d8cd3672b146663ade22f_exam3sol.pdf
+file_size: 84103
 file_type: application/pdf
 learning_resource_types:
 - Exams

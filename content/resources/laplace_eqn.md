@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on Laplace's equations and harmonic
   functions.
 file: /courses/18-02-multivariable-calculus-spring-2006/340799c7bed145663b19ee2806baf87a_laplace_eqn.pdf
+file_size: 115939
 file_type: application/pdf
 learning_resource_types:
 - Readings

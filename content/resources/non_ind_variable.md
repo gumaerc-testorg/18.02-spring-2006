@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-02-multivariable-calculus-spring-2006/1612da4fbe54e7ebc82f3f930e17e0db_non_ind_variable.pdf
+file_size: 170553
 file_type: application/pdf
 learning_resource_types:
 - Readings

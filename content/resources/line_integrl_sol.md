@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problems based on line integrals
   in the plane.
 file: /courses/18-02-multivariable-calculus-spring-2006/2b584bd12677a4c47ed3fc8921aeb673_line_integrl_sol.pdf
+file_size: 158047
 file_type: application/pdf
 learning_resource_types:
 - Readings
