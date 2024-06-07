@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on Green's theorem in normal form.
 file: /courses/18-02-multivariable-calculus-spring-2006/0322201f438c28e37dd70fa64ba380de_green_theorem.pdf
+file_size: 94981
 file_type: application/pdf
 learning_resource_types:
 - Readings

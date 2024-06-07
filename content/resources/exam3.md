@@ -7,6 +7,7 @@ description: This file includes problems on double and iterated integrals, doubl
   conservative fields and potential functions, Green's theorem, 2-dimensional curl
   (vorticity), and simply-connected regions.
 file: /courses/18-02-multivariable-calculus-spring-2006/9a9922ecd7cffb5ce24bef34708c5aff_exam3.pdf
+file_size: 27134
 file_type: application/pdf
 learning_resource_types:
 - Exams

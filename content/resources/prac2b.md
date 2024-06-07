@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes problems on level curves, partial derivatives, tangent
   plane, and Lagrange multipliers.
 file: /courses/18-02-multivariable-calculus-spring-2006/a0458212c9fe9b2f06354cab43f5897c_prac2b.pdf
+file_size: 91140
 file_type: application/pdf
 learning_resource_types:
 - Exams

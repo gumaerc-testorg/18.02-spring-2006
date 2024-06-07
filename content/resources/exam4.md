@@ -4,6 +4,7 @@ description: This file includes problems on flux form of Green's theorem, flux f
   of Green's theorem, divergence (= Gauss's) theorem, line integrals in space, exactness,
   and potentials, Stokes' theorem, and understanding curl.
 file: /courses/18-02-multivariable-calculus-spring-2006/44f95085dfd8cbe81bf7266f1a549deb_exam4.pdf
+file_size: 26373
 file_type: application/pdf
 learning_resource_types:
 - Exams
