@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems based on partial differentiation.
 file: /courses/18-02-multivariable-calculus-spring-2006/f63bec9987cc52c00d6e1c5528226ed2_partial_diff.pdf
+file_size: 219539
 file_type: application/pdf
 learning_resource_types:
 - Readings

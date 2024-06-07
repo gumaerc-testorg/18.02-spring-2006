@@ -5,6 +5,7 @@ description: This file provides solutions to problems on level curves, partial d
   boundaries and infinity, differentials, chain rule, gradient, directional derivative,
   Lagrange multipliers, non-independent variables, and partial differential equations.
 file: /courses/18-02-multivariable-calculus-spring-2006/0c71ac9293682b8de8c3dc036676e192_exam2sol.pdf
+file_size: 109474
 file_type: application/pdf
 learning_resource_types:
 - Exams

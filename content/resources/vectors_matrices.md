@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on vectors and matrices.
 file: /courses/18-02-multivariable-calculus-spring-2006/14829c1fd971a4f08e5cd34673e9414e_vectors_matrices.pdf
+file_size: 255305
 file_type: application/pdf
 learning_resource_types:
 - Readings

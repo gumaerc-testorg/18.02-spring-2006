@@ -3,6 +3,7 @@ content_type: resource
 description: This file provides solutions to problems on Green's theorem, and simply-connected
   regions.
 file: /courses/18-02-multivariable-calculus-spring-2006/a35a8f7b1ef0aab54053cd950d5a568c_ps9_sol.pdf
+file_size: 63779
 file_type: application/pdf
 learning_resource_types:
 - Assignments
