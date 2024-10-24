@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides solutions for three problems on topics flux, normal
   form of Green's theorem, vector fields in 3D, and surface integrals and flux.
-file: /courses/18-02-multivariable-calculus-spring-2006/f99fb468402937e7cb441e905cd20d81_ps10_sol.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/f99fb468402937e7cb441e905cd20d81_ps10_sol.pdf
 file_size: 65065
 file_type: application/pdf
 learning_resource_types:
