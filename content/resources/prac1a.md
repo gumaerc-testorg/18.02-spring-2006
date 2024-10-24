@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes problems on dot and cross product, velocity and the
   speed, inverse matrices, systems of linear equations, lines, and planes.
-file: /courses/18-02-multivariable-calculus-spring-2006/803fa2d41b61b725846dcf7320e7447b_prac1a.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/803fa2d41b61b725846dcf7320e7447b_prac1a.pdf
 file_size: 79793
 file_type: application/pdf
 learning_resource_types:

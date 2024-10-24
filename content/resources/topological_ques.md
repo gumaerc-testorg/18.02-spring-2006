@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains some topological questions.
-file: /courses/18-02-multivariable-calculus-spring-2006/e186c0851ad40c45fa974062ba3b1935_topological_ques.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/e186c0851ad40c45fa974062ba3b1935_topological_ques.pdf
 file_size: 87800
 file_type: application/pdf
 learning_resource_types:

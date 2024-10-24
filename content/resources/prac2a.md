@@ -3,7 +3,7 @@ content_type: resource
 description: This file includes problems on level curves, partial derivatives, tangent
   plane, Lagrange multipliers, max-min problems, gradient, directional derivative,
   and non-independent variables.
-file: /courses/18-02-multivariable-calculus-spring-2006/fa758b67b6fcf74e16e3dc9ea26c97a3_prac2a.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/fa758b67b6fcf74e16e3dc9ea26c97a3_prac2a.pdf
 file_size: 41475
 file_type: application/pdf
 learning_resource_types:
