@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Double Integrals.
-file: /courses/18-02-multivariable-calculus-spring-2006/adece8fc7ad82656a8131b0b793c8c72_double_integrals.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/adece8fc7ad82656a8131b0b793c8c72_double_integrals.pdf
 file_size: 91559
 file_type: application/pdf
 learning_resource_types:
