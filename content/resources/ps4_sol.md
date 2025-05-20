@@ -3,7 +3,7 @@ content_type: resource
 description: This file provides solutions to problems on second derivative test, boundaries
   and infinity, differentials, chain rule, gradient, directional derivative, and tangent
   plane.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/1150a6e22e1617a716b1dd05bd7e63d3_ps4_sol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/1150a6e22e1617a716b1dd05bd7e63d3_ps4_sol.pdf
 file_size: 179182
 file_type: application/pdf
 learning_resource_types:

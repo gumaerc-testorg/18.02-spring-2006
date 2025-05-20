@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides solutions to problems on solving systems of linear
   equations, lines, planes, determinants of orders 2 and 3, dot and cross product.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/09390857853734c605f99d285efd7324_prac1bsol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/09390857853734c605f99d285efd7324_prac1bsol.pdf
 file_size: 66203
 file_type: application/pdf
 learning_resource_types:

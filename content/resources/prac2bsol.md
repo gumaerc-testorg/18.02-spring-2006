@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides solutions to problems on level curves, partial derivatives,
   tangent plane, and Lagrange multipliers.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/6255d3f167d6eb86abeafd504fb05422_prac2bsol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/6255d3f167d6eb86abeafd504fb05422_prac2bsol.pdf
 file_size: 73308
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This file provides solutions to problems on vector fields and line integrals
   in the plane, gradient fields, path independence, and conservative fields, and finding
   potential functions.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/ddb929ff2ee9cdcb0206dfab50a00bb7_ps8_sol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/ddb929ff2ee9cdcb0206dfab50a00bb7_ps8_sol.pdf
 file_size: 78200
 file_type: application/pdf
 learning_resource_types:
