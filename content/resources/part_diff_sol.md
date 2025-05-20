@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to problems on partial differentiation.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/c8ae96d0e42e968ca4e78ae8884beb1f_part_diff_sol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/c8ae96d0e42e968ca4e78ae8884beb1f_part_diff_sol.pdf
 file_size: 346396
 file_type: application/pdf
 learning_resource_types:

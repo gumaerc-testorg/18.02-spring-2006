@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides solutions to problems on double integrals and iterated
   integrals, double integrals in polar coordinates and its applications.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/3d1d810d4ddfde577c367434dd8d2db9_ps6_sol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/3d1d810d4ddfde577c367434dd8d2db9_ps6_sol.pdf
 file_size: 98808
 file_type: application/pdf
 learning_resource_types:
