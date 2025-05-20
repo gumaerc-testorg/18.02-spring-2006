@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on limits in integrated integrals.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/ae726920eca074ad0a6bb95addd97c16_lim_itratd_intgr.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/ae726920eca074ad0a6bb95addd97c16_lim_itratd_intgr.pdf
 file_size: 79262
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on simply-Connected regions.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/eab1e529ab7ea4a5d5b7bbe75511a08b_simpl_conctd_reg.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/eab1e529ab7ea4a5d5b7bbe75511a08b_simpl_conctd_reg.pdf
 file_size: 89819
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on least squares interpolation.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/be4bc381d16882e29be12135ca61113a_least_sq_intrpol.pdf
+file: /courses/18-02-multivariable-calculus-spring-2006/be4bc381d16882e29be12135ca61113a_least_sq_intrpol.pdf
 file_size: 59919
 file_type: application/pdf
 learning_resource_types:
