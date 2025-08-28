@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on multiply-connected regions & topology.
-file: /courses/18-02-multivariable-calculus-spring-2006/9d1169d827c52c3c81eb41447a2637fb_mult_conectd_reg.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/9d1169d827c52c3c81eb41447a2637fb_mult_conectd_reg.pdf
 file_size: 90490
 file_type: application/pdf
 learning_resource_types:
