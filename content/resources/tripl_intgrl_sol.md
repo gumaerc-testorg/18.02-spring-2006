@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on triple integrals.
-file: /courses/18-02-multivariable-calculus-spring-2006/bbef7e6c355e845e6b695ddb7f31152f_tripl_intgrl_sol.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/bbef7e6c355e845e6b695ddb7f31152f_tripl_intgrl_sol.pdf
 file_size: 136465
 file_type: application/pdf
 learning_resource_types:

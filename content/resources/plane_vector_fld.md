@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on plane vector fields.
-file: /courses/18-02-multivariable-calculus-spring-2006/6a799fce7ea04930b64b216fdad83285_plane_vector_fld.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/6a799fce7ea04930b64b216fdad83285_plane_vector_fld.pdf
 file_size: 101940
 file_type: application/pdf
 learning_resource_types:
