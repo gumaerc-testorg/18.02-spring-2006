@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes problems on conservative fields and potential functions,
   Stokes' theorem, and flux form of Green's theorem.
-file: /courses/18-02-multivariable-calculus-spring-2006/cbcae6d86515a730d973b9692358b160_prac4a.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/cbcae6d86515a730d973b9692358b160_prac4a.pdf
 file_size: 50779
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource cotains information on tangent approximation.
-file: /courses/18-02-multivariable-calculus-spring-2006/8f7318e8b82c26dd397abc02a46f5ee2_tangent_approx.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/8f7318e8b82c26dd397abc02a46f5ee2_tangent_approx.pdf
 file_size: 123454
 file_type: application/pdf
 learning_resource_types:

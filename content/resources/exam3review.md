@@ -2,7 +2,7 @@
 content_type: resource
 description: This file gives a brief description of the topics to be covred in the
   exam.
-file: /courses/18-02-multivariable-calculus-spring-2006/81d0b203fa543fd44e9b20593368c135_exam3review.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/81d0b203fa543fd44e9b20593368c135_exam3review.pdf
 file_size: 30177
 file_type: application/pdf
 learning_resource_types: []

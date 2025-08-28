@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on two-dimentional flux.
-file: /courses/18-02-multivariable-calculus-spring-2006/53f04b39bc15bf7bda4b3435f2717e13_2_dimentnl_flux.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-spring-2006/53f04b39bc15bf7bda4b3435f2717e13_2_dimentnl_flux.pdf
 file_size: 64500
 file_type: application/pdf
 learning_resource_types:
